@@ -8,7 +8,7 @@ coin[tail-head]=''
 coin[tail-tail]=''
 
 coin[heads-heads]=0
-coin[heads-tailss]=0
+coin[heads-tails]=0
 coin[tails-heads]=0
 coin[tails-tails]=0
 
